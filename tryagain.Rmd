@@ -1,10 +1,9 @@
 ---
-title: "Untitled"
+title: "bath"
 author: "Gianluca David Baroni"
 date: "23-4-2019"
-output: 
-  html_document:
-    keep_md: true
+output: html_document
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
